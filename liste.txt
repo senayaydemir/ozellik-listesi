@@ -1,0 +1,4 @@
+Sürüm Kontrolü (Version Control): GitHub, projelerin farklı sürümlerini takip etmeyi ve geçmişe dönmeyi sağlar.
+Pull Request (PR): Pull request, yapılan değişikliklerin projeye dahil edilmeden önce gözden geçirilmesine olanak tanır.
+Issues (Sorunlar): Issues, projedeki hataları, iyileştirmeleri ve görevleri takip etmek için kullanılır.
+Actions (GitHub Actions): GitHub Actions, yazılım geliştirme sürecinde test, derleme ve dağıtım işlemlerini otomatikleştirir.

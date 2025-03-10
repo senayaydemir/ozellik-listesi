@@ -1,4 +1,6 @@
+
 1)Sürüm Kontrolü (Version Control): GitHub, projelerin farklı sürümlerini takip etmeyi ve geçmişe dönmeyi sağlar.
 2)Pull Request (PR): Pull request, yapılan değişikliklerin projeye dahil edilmeden önce gözden geçirilmesine olanak tanır.
 3)Actions (GitHub Actions): GitHub Actions, yazılım geliştirme sürecinde test, derleme ve dağıtım işlemlerini otomatikleştirir.
 4)GitHub'daki Branching (Dallanma) özelliği, projede paralel olarak farklı özellikler üzerinde çalışmayı ve ana projeyi bozmadan değişiklikleri entegre etmeyi sağlar.
+

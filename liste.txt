@@ -2,3 +2,4 @@ Sürüm Kontrolü (Version Control): GitHub, projelerin farklı sürümlerini ta
 Pull Request (PR): Pull request, yapılan değişikliklerin projeye dahil edilmeden önce gözden geçirilmesine olanak tanır.
 Issues (Sorunlar): Issues, projedeki hataları, iyileştirmeleri ve görevleri takip etmek için kullanılır.
 Actions (GitHub Actions): GitHub Actions, yazılım geliştirme sürecinde test, derleme ve dağıtım işlemlerini otomatikleştirir.
+GitHub'daki Branching (Dallanma) özelliği, projede paralel olarak farklı özellikler üzerinde çalışmayı ve ana projeyi bozmadan değişiklikleri entegre etmeyi sağlar.
